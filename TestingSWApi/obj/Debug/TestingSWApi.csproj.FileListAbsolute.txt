@@ -1,0 +1,10 @@
+D:\Test Projects\TestingSWApi\TestingSWApi\bin\Debug\TestingSWApi.exe.config
+D:\Test Projects\TestingSWApi\TestingSWApi\obj\Debug\TestingSWApi.Form1.resources
+D:\Test Projects\TestingSWApi\TestingSWApi\obj\Debug\TestingSWApi.Properties.Resources.resources
+D:\Test Projects\TestingSWApi\TestingSWApi\obj\Debug\TestingSWApi.csproj.GenerateResource.Cache
+D:\Test Projects\TestingSWApi\TestingSWApi\bin\Debug\24036600.sldprt
+D:\Test Projects\TestingSWApi\TestingSWApi\bin\Debug\TestingSWApi.exe
+D:\Test Projects\TestingSWApi\TestingSWApi\bin\Debug\TestingSWApi.pdb
+D:\Test Projects\TestingSWApi\TestingSWApi\obj\Debug\TestingSWApi.exe
+D:\Test Projects\TestingSWApi\TestingSWApi\obj\Debug\TestingSWApi.pdb
+D:\Test Projects\TestingSWApi\TestingSWApi\obj\Debug\TestingSWApi.csprojResolveAssemblyReference.cache
